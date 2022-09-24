@@ -13,7 +13,7 @@ html{
     scroll-behavior: smooth;
 }
 .main-container{
-    background: url(images/background.png);
+    background: url(./background.png);
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -214,7 +214,7 @@ background: white;
 
 }
 .fast-booking{
-    background: url(images/secbg.png);
+    background: url(./secbg.png);
     background-size: cover;
     width: 100%;
     background-position: center;
@@ -273,7 +273,7 @@ background: white;
 }
 
 .testimonials{
-    background: url(images/testimonial\ back.png);
+    background: url(./testimonial\ back.png);
     background-size: cover;
     background-position: center;
     width: 100%;
