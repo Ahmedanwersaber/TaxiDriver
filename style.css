@@ -32,6 +32,9 @@ html{
     color: white;
     text-decoration: none;
 }
+.header img{
+    width: 50px;
+}
 .header .navbar a:hover{
     background: #ffc61a;
     color: black;
