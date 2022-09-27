@@ -43,6 +43,16 @@ html{
     padding: .5rem 3rem;
     border-radius: 15px;
 }
+.booknow{
+    padding: 1rem 1rem;
+    margin-top: 1rem;
+    color: rgb(0, 0, 0);
+    font-size: 1.5rem;
+    border: 1px solid #ffc61a;
+    background: #fff;
+    border-radius: 15px;
+}
+
 #menu-bars{
     color: white;
     font-size: 2rem;
