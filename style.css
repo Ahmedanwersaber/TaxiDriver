@@ -127,6 +127,11 @@ border: 1px solid white;
 border-radius: 15px;
 background: white;
 }
+#whatsapp{
+    color: #fff;
+    font-size: 30px;
+  
+}
 .form-heading{
     text-align: center;
     background: black;
