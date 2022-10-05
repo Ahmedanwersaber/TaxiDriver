@@ -43,6 +43,9 @@ html{
     padding: .5rem 3rem;
     border-radius: 15px;
 }
+.header #logo img{
+    width: 11rem;
+}
 .booknow{
     padding: 1rem 1rem;
     margin-top: 1rem;
