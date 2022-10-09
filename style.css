@@ -13,7 +13,7 @@ html{
     scroll-behavior: smooth;
 }
 .main-container{
-    background: url(./background.png);
+    background-image:linear-gradient(rgba(0,0,0,0.527),rgba(0,0,0,0.8)) ,url(./٣٤٣٤.PNG);
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -88,7 +88,7 @@ html{
     margin-top: 100px;
 }
 .home-container{
-    background: #ffc61a;
+   background-image: linear-gradient(rgba(0,0,0,0.527),rgba(0,0,0,0.2)) ,url(./٥٥٥٥٥.PNG);
     padding: 2rem 7%;
     width: 100%;
     padding-top: 4rem;
@@ -457,7 +457,7 @@ color:#fff;
     .background-text h2{
         width: 100%;
         text-align: center;
-        padding-top: 90%;
+        padding-top:20%;
     }
     .taxi-image{
         width: 50rem;
